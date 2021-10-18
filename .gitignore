@@ -1,0 +1,4 @@
+work_env
+widgets_and_gadets_backend.egg-info
+__pycache__
+*.env
